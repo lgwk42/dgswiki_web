@@ -1,0 +1,19 @@
+.title{
+    position: absolute;
+    top: 20px;
+}
+.Mom{
+    position: absolute;
+    width: 900px;
+    height: 100px;
+}
+.searchBox{
+    position: absolute;
+    right: 20px;
+    top: 45px;
+}
+.SideTitle{
+    position: absolute;
+    top: 25px;
+    left: 150px;
+}
